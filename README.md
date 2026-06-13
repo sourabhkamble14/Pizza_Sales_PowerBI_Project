@@ -1,3 +1,4 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ## Tools Used
 - Power BI
 - SQL
